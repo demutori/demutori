@@ -1,0 +1,19 @@
+body {
+    font-family: monospace;
+    font-size: 20px;
+    color: white;
+ background: rgb(75,29,68);
+background: linear-gradient(21deg, rgba(75,29,68,1) 1%, rgba(124,38,110,1) 28%, rgba(41,97,146,1) 81%); background-color: black ;
+ background-size: 100% 100%;
+   background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position:center top;
+}
+a:link {
+    color: white;
+    text-decoration: none;
+}
+a:visited {
+    color: #f0f0f0;
+}
+
